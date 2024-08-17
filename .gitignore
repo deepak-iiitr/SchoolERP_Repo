@@ -1,0 +1,7 @@
+# Go binary files
+*.exe
+*.test
+*.out
+
+# Dependency directories
+vendor/
